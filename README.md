@@ -61,7 +61,6 @@ During the first sprint, the following items were delivered:
 ## 3) Interface
 
 The user interface was developed based on the style guide. The first version of the prototype can be accessed at the following link:  
-*Insert link here*
 
 <img src="./assets/video.png">
 
