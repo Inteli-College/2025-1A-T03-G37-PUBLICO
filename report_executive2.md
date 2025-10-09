@@ -64,5 +64,5 @@ Sprint Goal: Containerize the project to simplify environment setup across diffe
 
 Available at: [Document](../business/module2.pdf)
 
-<a href="./module2.pdf"><img src="./assets/final_module2.png"></img></a>
+<a href="./assets/module2.pdf"><img src="./assets/final_module2.png"></img></a>
 
