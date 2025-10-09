@@ -25,4 +25,4 @@
 
 Available at: [Document](../business/module2.pdf)
 
-<a href="./assets/module2.pdf"><img src="./assets/final_module2.png"></img></a>
+<a href="./assets/modulo2.pdf"><img src="./assets/final_module2.png"></img></a>
